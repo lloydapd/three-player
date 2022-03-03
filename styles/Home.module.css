@@ -2,6 +2,15 @@
   padding: 0 2rem;
 }
 
+.canvas {
+  height: 700px;
+  background: red
+}
+
+.body {
+  margin: 0
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
